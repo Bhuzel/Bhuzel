@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Anhar Sandova</h1>
-<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
+<h1 align="center">Hi There, I'm Bhuzel Rayhan</h1>
+<h3 align="center">I'am Baginner Developer | Tech Enthusiast</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=303F9F&center=true&vCenter=true&width=435&lines=Building+APIs%2C+Crafting+Solutions;Passionate+about+Tech+%26+Innovation;Code.+Connect.+Create." alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
