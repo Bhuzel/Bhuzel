@@ -29,6 +29,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuzel&layout=compact&theme=radical" />
+  <img align="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/Bhuzel?cardType=github&theme=radical&preferLogin=true" />
 </p>
 
 ---
@@ -47,7 +48,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhuzel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
+
+
+<p align="center">
+  <a href="https://github.com/Bhuzel"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuzel&theme=redical" /></a>
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
