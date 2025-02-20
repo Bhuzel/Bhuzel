@@ -25,7 +25,13 @@
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white)
  
-![snake gif](https://github.com/Bhuzel/Bhuzel/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
+    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
 </div>
 
 <p>
