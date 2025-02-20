@@ -9,11 +9,14 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo" />
-  <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white) 
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+ ![Android Studio](https://img.shields.io/badge/AndroidStudio-555555?style=for-the-badge&logo=androidstudio&logoColor=white)
+ ![Html](https://img.shields.io/badge/Html-555555?style=for-the-badge&logo=html&logoColor=white)
 
 
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
