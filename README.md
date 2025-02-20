@@ -35,16 +35,16 @@
 
   ## 💰 You can help me by Donating
   [![GiveMeASupport](https://img.shields.io/badge/Give%20Me%20a%20Support-ffdd00?style=for-the-badge&logo=Give-Me-a-Support&logoColor=black)](https://saweria.co/bhuzelrayhan)
-
+<br>
 ## 🌎 **Connect with Me**
 <p align="center">
   <a href="https://github.com/Bhuzel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/mrayhanar_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/Bhuzel1029"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@Bhuzel1029"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://wa.me/6282352052566"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/BhuzelRayhan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-  
+  <br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhuzel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
   
