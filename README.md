@@ -28,14 +28,12 @@
 </div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuzel&layout=compact&theme=radical" />
-  <img align="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/Bhuzel?cardType=github&theme=radical&preferLogin=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuzel&layout=compact&theme=radical" />
+  <img align="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/Bhuzel?cardType=github&theme=radical&preferLogin=true" />
 </p>
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![GiveMeASupport](https://img.shields.io/badge/Give%20Me%20a%20Support-ffdd00?style=for-the-badge&logo=Give-Me-a-Support&logoColor=black)](https://saweria.co/bhuzelrayhan)
 
 ## 🌎 **Connect with Me**
 <p align="center">
@@ -44,6 +42,7 @@
   <a href="https://youtube.com/@Bhuzel1029"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://wa.me/6282352052566"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/BhuzelRayhan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  [![GiveMeASupport](https://img.shields.io/badge/Give%20Me%20a%20Support-ffdd00?style=for-the-badge&logo=Give-Me-a-Support&logoColor=black)](https://saweria.co/bhuzelrayhan)
 </p>
 
 ## 🏆 GitHub Trophies
