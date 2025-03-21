@@ -26,7 +26,7 @@
  
  ![snake gif](https://github.com/Bhuzel/Bhuzel/blob/main/github-user-contribution.svg)
 </div>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars&theme=nautilus)](https://github.com/Bhuzel)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Bhuzel)
 
 ---
 
