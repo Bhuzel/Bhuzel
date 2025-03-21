@@ -26,7 +26,8 @@
  
  ![snake gif](https://github.com/Bhuzel/Bhuzel/blob/main/github-user-contribution.svg)
 </div>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Bhuzel)
+
+  <a href="https://github.com/Bhuzel"><img src="https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars,commits&theme=nautilus" /></a>
 
 ---
 
@@ -56,6 +57,3 @@
 <p align="center">
   <a href="https://github.com/Bhuzel"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuzel&theme=redical" /></a>
 </p>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
