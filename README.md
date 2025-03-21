@@ -1,8 +1,6 @@
 <h1 align="center">Hi There, I'm Bhuzel Rayhan</h1>
 <h3 align="center">I'am Baginner Developer | Tech Enthusiast</h3>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=303F9F&center=true&vCenter=true&width=435&lines=Building+APIs%2C+Crafting+Solutions;Passionate+about+Tech+%26+Innovation;Code.+Connect.+Create." alt="Typing SVG" />
 </p>
@@ -28,6 +26,7 @@
  
  ![snake gif](https://github.com/Bhuzel/Bhuzel/blob/main/github-user-contribution.svg)
 </div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars&theme=nautilus)](https://github.com/Bhuzel)
 
 ---
 
@@ -43,7 +42,7 @@
 ## 🌎 **Connect with Me**
 <p align="center">
   <a href="https://github.com/Bhuzel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/mrayhanar_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/zellrayy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@Bhuzel1029"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://wa.me/6282352052566"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://t.me/BhuzelRayhan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
