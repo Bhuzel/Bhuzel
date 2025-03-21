@@ -24,7 +24,7 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  
- ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+ ![snake gif](https://github.com/Bhuzel/Bhuzel/refs/heads/main/github-user-contribution.svg)
 </div>
 
 ---
