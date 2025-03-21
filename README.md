@@ -24,10 +24,9 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
  
- ![snake gif](https://github.com/Bhuzel/Bhuzel/blob/main/github-user-contribution.svg)
 </div>
-
-  <a href="https://github.com/Bhuzel"><img src="https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars,commits&theme=nautilus" /></a>
+<p align="center">
+  <a href="https://github.com/Bhuzel"><img src="https://github-widgetbox.vercel.app/api/profile?username=Bhuzel&data=followers,repositories,stars,commits&theme=nautilus" /></a></p>
 
 ---
 
