@@ -1,6 +1,8 @@
 <h1 align="center">Hi There, I'm Bhuzel Rayhan</h1>
 <h3 align="center">I'am Baginner Developer | Tech Enthusiast</h3>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=303F9F&center=true&vCenter=true&width=435&lines=Building+APIs%2C+Crafting+Solutions;Passionate+about+Tech+%26+Innovation;Code.+Connect.+Create." alt="Typing SVG" />
 </p>
